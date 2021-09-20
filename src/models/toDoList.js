@@ -1,5 +1,5 @@
 
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
 const toDoSchema = new mongoose.Schema({
     _id: mongoose.Schema.Types.ObjectId,
 
@@ -18,6 +18,6 @@ const toDoSchema = new mongoose.Schema({
         require: true
     }
 
-})
+});
 
-module.exports = mongoose.model('toDOList',toDoSchema )
+module.exports = mongoose.model('toDOList',toDoSchema );
