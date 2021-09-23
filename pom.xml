@@ -13,8 +13,8 @@
 	<groupId>com.danibotelho</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Course Spring Boot</description>
+	<name>toDo_Java</name>
+	<description>toDo_Java</description>
 
 	<properties>
 		<java.version>11</java.version>
