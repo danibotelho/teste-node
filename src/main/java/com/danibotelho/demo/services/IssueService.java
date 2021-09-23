@@ -40,7 +40,7 @@ public class IssueService {
 		entity.setTitulo(obj.getTitulo());
 		entity.setDescricao(obj.getDescricao());
 		entity.setDone(obj.isDone());
-		
+		entity.setGroupId(obj.getGroupId());
 	}
 	
 	
